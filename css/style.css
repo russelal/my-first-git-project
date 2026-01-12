@@ -3,4 +3,5 @@ body{
 }
 p.blue_background{
 	background-color: blue;
+	font-style: italic;
 }
